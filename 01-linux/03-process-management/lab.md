@@ -14,9 +14,11 @@ ps aux
 top
 ```
 Press q to exit
+
 ## Step 3: Check system memory
 ```
 free -m
+```
 
 ## Step 4: Check disk usage
 ```
