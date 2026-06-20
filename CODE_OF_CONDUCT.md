@@ -1,4 +1,4 @@
-## 🌍 Our Commitment
+## Our Commitment
 
 Cloud Native University is a free, open learning community built to help engineers grow in Cloud, DevOps, and Cloud Native technologies.
 
