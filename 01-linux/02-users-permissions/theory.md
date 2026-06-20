@@ -46,15 +46,18 @@ x = execute
 ## Permission Structure
 
 Example:
-
+```
 -rwxr-xr--
+```
 
 ## Breakdown:
 
-Section	Meaning
+### Section	Meaning
+```
 rwx	Owner permissions
 r-x	Group permissions
 r--	Others permissions
+```
 
 ## Important Commands
 ### Check user
