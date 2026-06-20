@@ -71,9 +71,9 @@ Everything you do passes through the kernel.
 
 # Outcome
 
-After this module you should be able to:
+## After this module you should be able to:
 
-✔ Navigate Linux confidently  
-✔ Debug basic system issues  
-✔ Understand how cloud systems run under the hood  
+- Navigate Linux confidently  
+- Debug basic system issues  
+- Understand how cloud systems run under the hood  
 
