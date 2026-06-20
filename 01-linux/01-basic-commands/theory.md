@@ -89,10 +89,7 @@ Troubleshooting CI/CD pipelines
 
 ### After this module, you will be able to:
 
-✔ Navigate Linux filesystem
-
-✔ Create and manage files
-
-✔ Understand directory structure
-
-✔ Use basic commands confidently in cloud systems
+- Navigate Linux filesystem
+- Create and manage files
+- Understand directory structure
+- Use basic commands confidently in cloud systems
